@@ -1,0 +1,1 @@
+print("https://github.com/BaiXinSuper/Python-obfuscator")
